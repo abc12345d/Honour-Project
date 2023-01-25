@@ -1,0 +1,13 @@
+# run below command in terminal
+# pip install -r requirement.txt
+
+numpy == 1.23.1
+pandas == 1.4.4
+matplotlib == 3.5.2
+matplotlib-inline == 0.1.6
+arviz == 0.12.1
+pymc3 == 3.11.4
+theano-pymc == 1.1.2
+theano == 1.0.5          
+scipy  == 1.9.1
+
